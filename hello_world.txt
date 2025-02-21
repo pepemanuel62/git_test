@@ -1,1 +1,7 @@
 slowly getting the hang of this...and I do mean slowly 
+
+practice 2/21/25 5:33pm
+
+editing this file on my chromebook using it's default text editor, not VSCode because VSCode wouldnt install right for some reason. Have screenshots of Linux terminal output after trying to install VSCode that I will post on TOP's Discord and ask for help.
+
+Should have mentioned that this practice involves working with and learning Git
